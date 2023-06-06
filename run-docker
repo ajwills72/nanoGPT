@@ -1,0 +1,1 @@
+docker run --gpus all -it -v /home/andy/repo/nanoGPT:/app pytorch-nanogpt
